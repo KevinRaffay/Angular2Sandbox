@@ -1,0 +1,6 @@
+{
+    "proxyhttp": "http://10.254.199.100:80",
+    "https-proxy": "http://10.254.199.100:80",
+    "rejectUnauthorized": false,
+    "registryURL": "http://api.typings.org/"
+}
